@@ -1,0 +1,30 @@
+//Nombre: Juan Antonio Patiño Espinosa
+//Matricula:1633260
+//Hora: N6 Dia: LMV
+
+//lineas:
+function setup()
+ {
+  createCanvas(400, 400);
+}
+
+
+
+function draw()
+ {
+  
+background(0);
+	
+stroke(255);
+	
+line(0,400,200,200);
+  
+stroke(255);
+	
+line(200,0,200,200);
+	
+stroke(255);
+	
+line(400,400,200,200);
+	
+}
